@@ -1,0 +1,157 @@
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background: #9883; 
+    width: 100%;
+    margin: 0 auto;
+    font-size: 20px;
+}
+.header{
+    font-family: "Georgia",Times,'Times New Roman',serif;
+    background: #fff;
+    top: 0;
+    width: 100%;
+    padding-bottom: -20px;
+    height: 70px;
+    border-bottom: 2px solid #666;
+    }
+a{
+        clear: both;
+        text-decoration: none;
+        color: #000;
+        padding-bottom: 30px;
+        padding-left: 15px;
+    }
+a:hover{
+    color: red;
+}
+h1{
+    font-family: "Georgia",Times,'Times New Roman',serif;
+    border-bottom: 2px solid #9883;
+    color: #7dd0b6;
+    padding: 20px 0;
+    padding-top: 30px;
+}
+h2{
+        font-family: "Georgia",Times,'Times New Roman',serif;
+        border-bottom: 2px solid #9883;
+        color: #7dd0b6;
+        padding: 10px 0;
+        padding-top: 20px;
+        font-size: 22px;
+   
+}
+.containeer{
+    width: 960px;
+    margin: 0 auto;
+    }
+.con{
+    width: 960px;
+    margin: 0 auto;
+    
+}
+.logo{
+        float: left;
+        font-size: 24px;
+        background:#7dd0b6;
+        padding: 21.5px;
+        margin-left: -20px;
+        
+    }
+.run{
+        float: right;
+        margin-right: -20px;
+       
+    }
+ul{
+        text-decoration: none;
+    }
+li{
+        float: left;
+        list-style: none;
+    }
+.wrapper{
+        width: 960px;
+        margin: 0 auto;
+        background: #fff;
+        padding: 20px;
+        padding-top: 0px;
+        margin-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        height: 450px;;
+       
+    }
+#bio-image,
+#imga{
+        float: left;
+        overflow: auto;
+    }
+#bio-image img{
+        clear: both;
+        overflow: auto;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        width: 200px;
+        height:200px;
+    }
+
+    .smart{
+        position: relative;
+    }
+ .smart img{
+     width: 180px;
+     height: 120px;
+ }   
+    .some{
+        position: absolute;
+        width: 73px;
+        bottom: 5px;
+        padding: 10px;
+        padding-left: 54px;
+        padding-right: 53px;
+        margin-bottom: 8px;
+        text-align: center;
+        background: #7dd0b6;
+    }
+    .tome{
+        position: absolute;
+        width: 73px;
+        bottom: 5px;
+        padding: 10px;
+        padding-left: 55px;
+        padding-right: 53px;
+        margin-bottom: 8px;
+        left: 185px;
+        background: #7dd0b6;
+    }
+    .myform{
+        padding: 15px 0;
+    }
+    .myform .group{
+        padding-bottom: 15px;
+    }
+    .myform label{
+        display: block;
+    }
+    .myform input[type="text"],
+    .myform textarea {
+        padding: 8px;
+        width: 98%;
+      
+    }
+    .button{
+        padding: 5px 15px;
+        background: #7dd0b6;
+    }
+
+.stick{
+       position: absolute;
+       width: 100%;
+       background: #666666;
+       text-align: center;
+       bottom: 0px;
+       padding-top: 25px;
+       padding-bottom: 0px;
+       border-top: 4px solid #7dd0b6;
+       
+}
